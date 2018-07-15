@@ -1,11 +1,6 @@
 # Erweitere Latex-Vorlage
 
-Dies ist eine erweitere LaTeX Vorlage.
-Sie basiert auf der Vorlage von Fabian Berner
-und wurde im Rahmen meiner Thesis um Funktionen 
-erweitert die ich für die Arbeit für sinnvoll erachtet habe.
-Die original Version kann unter folgender Adresse abgerufen werden:
-[LaTeX Vorlage](http://webuser.hs-furtwangen.de/~berner/wa.html)
+Dies ist eine erweiterte LaTeX Vorlage und basiert auf der Vorlage der [Hochschule Furtwangen](https://www.hs-furtwangen.de/) und wurde im Rahmen meiner Bachelor Thesis um weitere Funktionen erweitert. 
 
 
 ## Funktionen:
@@ -15,8 +10,10 @@ Die original Version kann unter folgender Adresse abgerufen werden:
 + Dateistruktur beginnend mit Zahlen zur Sortierung des Quellcodes
 + Abgeänderte Nummerierung im Inhaltsverzeichnis
 + Gitignore für LaTeX und TMP-Ordner
-+ Vorbereitung zum Einsatz in [Texlipse](http://texlipse.sourceforge.net/)
++ Vorbereitung zum Einsatz in [Texlipse](http://texlipse.sourceforge.net/), [TeXStudio](https://www.texstudio.org/)
++ Kompatibel zu: [Share-LaTeX](https://www.sharelatex.com/), [Overleaf](https://www.overleaf.com/)
 + Angepasste Code-Darstellung
++ HFU Konform für Bachelor/Master-Thesis und Projekt-Dokus
 
 ## Verzeichnisstruktur 
 
