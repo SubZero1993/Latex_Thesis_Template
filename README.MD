@@ -11,7 +11,7 @@ Dies ist eine erweiterte LaTeX Vorlage und basiert auf der Vorlage der [Hochschu
 + Abgeänderte Nummerierung im Inhaltsverzeichnis
 + Gitignore für LaTeX und TMP-Ordner
 + Vorbereitung zum Einsatz in [Texlipse](http://texlipse.sourceforge.net/), [TeXStudio](https://www.texstudio.org/)
-+ Kompatibel zu: [Share-LaTeX](https://www.sharelatex.com/), [Overleaf](https://www.overleaf.com/)
++ Kompatibel zu: [Overleaf](https://www.overleaf.com/)
 + Angepasste Code-Darstellung
 + HFU Konform für Bachelor/Master-Thesis und Projekt-Dokus
 
